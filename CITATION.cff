@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite the associated article and this software repository."
+message: "If you use this software, please cite it as below."
 title: "Analysis code for explainable AI-based stroke discharge disposition prediction"
 authors:
 
 * family-names: Gholampour
   given-names: Seifollah
-  orcid: "https://scholar.google.com/citations?hl=en&user=SlHwgooAAAAJ&view_op=list_works&sortby=pubdate"
+  orcid: "https://orcid.org/0000-0002-4924-4239"
 * family-names: Dehghan
   given-names: Arshia
 * family-names: Voura
@@ -16,14 +16,6 @@ authors:
   given-names: Mohammad
 * family-names: Koutsouras
   given-names: George W.
-  version: 1.0.0
-  date-released: 2026-06-16
+  version: "1.0.2"
   repository-code: "https://github.com/Seif-AI-Lab/Ai-Stroke-Discharge-PLOS-One"
   license: MIT
-  keywords:
-* stroke
-* discharge disposition
-* explainable artificial intelligence
-* machine learning
-* SHAP
-* clinical decision support
